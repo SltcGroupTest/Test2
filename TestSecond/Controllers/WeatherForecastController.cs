@@ -36,23 +36,7 @@ namespace TestSecond.Controllers
             .ToArray();
         }
 
-        public void newMetode()
-        {
-
-        }
-
-        public void secondMethod()
-        {
-
-        }
-
-        public void thirdMethod()
-        {
-
-        }
-
-
-        public void fourthMethod()
+        public void addFirstMetod()
         {
 
         }
