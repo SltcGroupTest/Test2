@@ -35,5 +35,10 @@ namespace TestSecond.Controllers
             })
             .ToArray();
         }
+
+        public void newMetode()
+        {
+
+        }
     }
 }
