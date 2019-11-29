@@ -40,5 +40,10 @@ namespace TestSecond.Controllers
         {
 
         }
+
+        public void secondMethod()
+        {
+
+        }
     }
 }
